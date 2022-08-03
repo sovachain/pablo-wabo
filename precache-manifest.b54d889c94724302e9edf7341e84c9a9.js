@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "da8b9944aeb13b4b0069179c99aa541f",
+    "revision": "d16cd057b91f9fe91aeefcf0a88d4e76",
     "url": "/pablo-wabo/index.html"
   },
   {
-    "revision": "9d2ff6247171bf311b87",
+    "revision": "21353a7db2469521548f",
     "url": "/pablo-wabo/static/css/main.db17ca4b.chunk.css"
   },
   {
-    "revision": "dfacb16a0b5fe440ab64",
-    "url": "/pablo-wabo/static/js/2.8e2122d8.chunk.js"
+    "revision": "62f3df5a393619d53c49",
+    "url": "/pablo-wabo/static/js/2.383c2a66.chunk.js"
   },
   {
     "revision": "0def066106b5692cd5c135dcafc5767d",
-    "url": "/pablo-wabo/static/js/2.8e2122d8.chunk.js.LICENSE.txt"
+    "url": "/pablo-wabo/static/js/2.383c2a66.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9d2ff6247171bf311b87",
-    "url": "/pablo-wabo/static/js/main.2265229b.chunk.js"
+    "revision": "21353a7db2469521548f",
+    "url": "/pablo-wabo/static/js/main.91395531.chunk.js"
   },
   {
     "revision": "ffb071fd3511e5f4f94c",
     "url": "/pablo-wabo/static/js/runtime-main.166c9266.js"
+  },
+  {
+    "revision": "dde9be13790da0112516c70722a041e1",
+    "url": "/pablo-wabo/static/media/avalanche.dde9be13.svg"
   },
   {
     "revision": "3ce357e71a836a86691b904396a8955c",
