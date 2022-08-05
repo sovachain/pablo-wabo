@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a6688879dd0f83c1c9c5aa2b9dd48d97",
+    "revision": "887bf6935bb9f632df86c3987224493f",
     "url": "/pablo-wabo/index.html"
   },
   {
-    "revision": "ccd1d500d7ee60b02dcf",
+    "revision": "49f2c02b5d8f0e081a36",
     "url": "/pablo-wabo/static/css/main.db17ca4b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pablo-wabo/static/js/2.383c2a66.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ccd1d500d7ee60b02dcf",
-    "url": "/pablo-wabo/static/js/main.46182dc1.chunk.js"
+    "revision": "49f2c02b5d8f0e081a36",
+    "url": "/pablo-wabo/static/js/main.508ab7f9.chunk.js"
   },
   {
     "revision": "ffb071fd3511e5f4f94c",
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pablo-wabo/static/media/illustration-section-02.63d0555d.svg"
   },
   {
-    "revision": "2810a88b1d6365b363caeabe678f1629",
-    "url": "/pablo-wabo/static/media/logo.2810a88b.svg"
+    "revision": "c630ecab97af5072b2272c3d84714949",
+    "url": "/pablo-wabo/static/media/logo.c630ecab.png"
   },
   {
     "revision": "5c3c6a189fdfbaa71474567bd91f9f98",
