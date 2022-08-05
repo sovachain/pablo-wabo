@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f8b0f41c5c48de5444ad5379f4288673",
+    "revision": "a6688879dd0f83c1c9c5aa2b9dd48d97",
     "url": "/pablo-wabo/index.html"
   },
   {
