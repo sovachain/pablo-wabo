@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/pablo-wabo/static/css/main.db17ca4b.chunk.css",
-    "main.js": "/pablo-wabo/static/js/main.6c15ed6f.chunk.js",
-    "main.js.map": "/pablo-wabo/static/js/main.6c15ed6f.chunk.js.map",
-    "runtime-main.js": "/pablo-wabo/static/js/runtime-main.166c9266.js",
-    "runtime-main.js.map": "/pablo-wabo/static/js/runtime-main.166c9266.js.map",
-    "static/js/2.8f918982.chunk.js": "/pablo-wabo/static/js/2.8f918982.chunk.js",
-    "static/js/2.8f918982.chunk.js.map": "/pablo-wabo/static/js/2.8f918982.chunk.js.map",
-    "index.html": "/pablo-wabo/index.html",
-    "precache-manifest.fffd4e75e01fe0bc09b9fb98102376b9.js": "/pablo-wabo/precache-manifest.fffd4e75e01fe0bc09b9fb98102376b9.js",
-    "service-worker.js": "/pablo-wabo/service-worker.js",
-    "static/css/main.db17ca4b.chunk.css.map": "/pablo-wabo/static/css/main.db17ca4b.chunk.css.map",
-    "static/js/2.8f918982.chunk.js.LICENSE.txt": "/pablo-wabo/static/js/2.8f918982.chunk.js.LICENSE.txt",
-    "static/media/avalanche.svg": "/pablo-wabo/static/media/avalanche.dde9be13.svg",
-    "static/media/style.scss": "/pablo-wabo/static/media/illustration-section-02.63d0555d.svg",
-    "static/media/feature-tile-icon-01.svg": "/pablo-wabo/static/media/feature-tile-icon-01.0f9928d7.svg",
-    "static/media/feature-tile-icon-02.svg": "/pablo-wabo/static/media/feature-tile-icon-02.bd39f304.svg",
-    "static/media/feature-tile-icon-03.svg": "/pablo-wabo/static/media/feature-tile-icon-03.66f37ba5.svg",
-    "static/media/features-split-image-01.png": "/pablo-wabo/static/media/features-split-image-01.2bcfbbb0.png",
-    "static/media/logo.png": "/pablo-wabo/static/media/logo.21e0f787.png",
-    "static/media/video-placeholder.jpg": "/pablo-wabo/static/media/video-placeholder.5c3c6a18.jpg"
+    "main.css": "/static/css/main.d4d38b96.chunk.css",
+    "main.js": "/static/js/main.d56bf69e.chunk.js",
+    "main.js.map": "/static/js/main.d56bf69e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9c55276b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9c55276b.js.map",
+    "static/js/2.8f918982.chunk.js": "/static/js/2.8f918982.chunk.js",
+    "static/js/2.8f918982.chunk.js.map": "/static/js/2.8f918982.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b377d69b65387cb95e09247804fd49a5.js": "/precache-manifest.b377d69b65387cb95e09247804fd49a5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d4d38b96.chunk.css.map": "/static/css/main.d4d38b96.chunk.css.map",
+    "static/js/2.8f918982.chunk.js.LICENSE.txt": "/static/js/2.8f918982.chunk.js.LICENSE.txt",
+    "static/media/avalanche.svg": "/static/media/avalanche.dde9be13.svg",
+    "static/media/style.scss": "/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/features-split-image-01.png": "/static/media/features-split-image-01.2bcfbbb0.png",
+    "static/media/logo.png": "/static/media/logo.21e0f787.png",
+    "static/media/video-placeholder.jpg": "/static/media/video-placeholder.5c3c6a18.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.166c9266.js",
+    "static/js/runtime-main.9c55276b.js",
     "static/js/2.8f918982.chunk.js",
-    "static/css/main.db17ca4b.chunk.css",
-    "static/js/main.6c15ed6f.chunk.js"
+    "static/css/main.d4d38b96.chunk.css",
+    "static/js/main.d56bf69e.chunk.js"
   ]
 }
