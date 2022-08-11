@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pablo-wabo/static/css/main.db17ca4b.chunk.css",
-    "main.js": "/pablo-wabo/static/js/main.3c7f8566.chunk.js",
-    "main.js.map": "/pablo-wabo/static/js/main.3c7f8566.chunk.js.map",
+    "main.js": "/pablo-wabo/static/js/main.a0a08e62.chunk.js",
+    "main.js.map": "/pablo-wabo/static/js/main.a0a08e62.chunk.js.map",
     "runtime-main.js": "/pablo-wabo/static/js/runtime-main.166c9266.js",
     "runtime-main.js.map": "/pablo-wabo/static/js/runtime-main.166c9266.js.map",
     "static/js/2.8f918982.chunk.js": "/pablo-wabo/static/js/2.8f918982.chunk.js",
     "static/js/2.8f918982.chunk.js.map": "/pablo-wabo/static/js/2.8f918982.chunk.js.map",
     "index.html": "/pablo-wabo/index.html",
-    "precache-manifest.f71bdfe502381c5aa1f7466a49091ec4.js": "/pablo-wabo/precache-manifest.f71bdfe502381c5aa1f7466a49091ec4.js",
+    "precache-manifest.ba8dd84cdc5452ff610d559fcee84ed1.js": "/pablo-wabo/precache-manifest.ba8dd84cdc5452ff610d559fcee84ed1.js",
     "service-worker.js": "/pablo-wabo/service-worker.js",
     "static/css/main.db17ca4b.chunk.css.map": "/pablo-wabo/static/css/main.db17ca4b.chunk.css.map",
     "static/js/2.8f918982.chunk.js.LICENSE.txt": "/pablo-wabo/static/js/2.8f918982.chunk.js.LICENSE.txt",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.166c9266.js",
     "static/js/2.8f918982.chunk.js",
     "static/css/main.db17ca4b.chunk.css",
-    "static/js/main.3c7f8566.chunk.js"
+    "static/js/main.a0a08e62.chunk.js"
   ]
 }
