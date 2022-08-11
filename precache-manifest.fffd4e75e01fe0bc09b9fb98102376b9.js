@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cd9fd45eccff8666985eb66ab0786d8c",
+    "revision": "c77ea86d8ed31e02495ae0c9c24e3071",
     "url": "/pablo-wabo/index.html"
   },
   {
-    "revision": "d4e9f8541409239ed649",
+    "revision": "fe0d9df720e9c95402b3",
     "url": "/pablo-wabo/static/css/main.db17ca4b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pablo-wabo/static/js/2.8f918982.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d4e9f8541409239ed649",
-    "url": "/pablo-wabo/static/js/main.a0a08e62.chunk.js"
+    "revision": "fe0d9df720e9c95402b3",
+    "url": "/pablo-wabo/static/js/main.6c15ed6f.chunk.js"
   },
   {
     "revision": "ffb071fd3511e5f4f94c",
