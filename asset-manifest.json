@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/pablo-wabo/static/css/main.db17ca4b.chunk.css",
-    "main.js": "/pablo-wabo/static/js/main.6b9f6531.chunk.js",
-    "main.js.map": "/pablo-wabo/static/js/main.6b9f6531.chunk.js.map",
+    "main.js": "/pablo-wabo/static/js/main.4248eb21.chunk.js",
+    "main.js.map": "/pablo-wabo/static/js/main.4248eb21.chunk.js.map",
     "runtime-main.js": "/pablo-wabo/static/js/runtime-main.166c9266.js",
     "runtime-main.js.map": "/pablo-wabo/static/js/runtime-main.166c9266.js.map",
-    "static/js/2.383c2a66.chunk.js": "/pablo-wabo/static/js/2.383c2a66.chunk.js",
-    "static/js/2.383c2a66.chunk.js.map": "/pablo-wabo/static/js/2.383c2a66.chunk.js.map",
+    "static/js/2.3e191fb4.chunk.js": "/pablo-wabo/static/js/2.3e191fb4.chunk.js",
+    "static/js/2.3e191fb4.chunk.js.map": "/pablo-wabo/static/js/2.3e191fb4.chunk.js.map",
     "index.html": "/pablo-wabo/index.html",
-    "precache-manifest.e2130be020e6430c21c6f71070743825.js": "/pablo-wabo/precache-manifest.e2130be020e6430c21c6f71070743825.js",
+    "precache-manifest.976775337a1a11172d289e50c21a528f.js": "/pablo-wabo/precache-manifest.976775337a1a11172d289e50c21a528f.js",
     "service-worker.js": "/pablo-wabo/service-worker.js",
     "static/css/main.db17ca4b.chunk.css.map": "/pablo-wabo/static/css/main.db17ca4b.chunk.css.map",
-    "static/js/2.383c2a66.chunk.js.LICENSE.txt": "/pablo-wabo/static/js/2.383c2a66.chunk.js.LICENSE.txt",
+    "static/js/2.3e191fb4.chunk.js.LICENSE.txt": "/pablo-wabo/static/js/2.3e191fb4.chunk.js.LICENSE.txt",
     "static/media/avalanche.svg": "/pablo-wabo/static/media/avalanche.dde9be13.svg",
     "static/media/style.scss": "/pablo-wabo/static/media/illustration-section-02.63d0555d.svg",
     "static/media/feature-tile-icon-01.svg": "/pablo-wabo/static/media/feature-tile-icon-01.0f9928d7.svg",
     "static/media/feature-tile-icon-02.svg": "/pablo-wabo/static/media/feature-tile-icon-02.bd39f304.svg",
     "static/media/feature-tile-icon-03.svg": "/pablo-wabo/static/media/feature-tile-icon-03.66f37ba5.svg",
-    "static/media/feature-tile-icon-05.svg": "/pablo-wabo/static/media/feature-tile-icon-05.fa9ba00b.svg",
     "static/media/features-split-image-01.png": "/pablo-wabo/static/media/features-split-image-01.2bcfbbb0.png",
     "static/media/features-split-image-02.png": "/pablo-wabo/static/media/features-split-image-02.3c569239.png",
     "static/media/features-split-image-03.png": "/pablo-wabo/static/media/features-split-image-03.87e4d053.png",
@@ -26,8 +25,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.166c9266.js",
-    "static/js/2.383c2a66.chunk.js",
+    "static/js/2.3e191fb4.chunk.js",
     "static/css/main.db17ca4b.chunk.css",
-    "static/js/main.6b9f6531.chunk.js"
+    "static/js/main.4248eb21.chunk.js"
   ]
 }

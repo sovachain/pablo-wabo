@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7094ff7f48a82c4fa4a60f6a78294e5d",
+    "revision": "801c76c25b87219be799609c9e5366e2",
     "url": "/pablo-wabo/index.html"
   },
   {
-    "revision": "0faf079453ea3d09a757",
+    "revision": "7447ef79b89b43a3ace7",
     "url": "/pablo-wabo/static/css/main.db17ca4b.chunk.css"
   },
   {
-    "revision": "62f3df5a393619d53c49",
-    "url": "/pablo-wabo/static/js/2.383c2a66.chunk.js"
+    "revision": "20dbcf31d2f4772e1a15",
+    "url": "/pablo-wabo/static/js/2.3e191fb4.chunk.js"
   },
   {
     "revision": "0def066106b5692cd5c135dcafc5767d",
-    "url": "/pablo-wabo/static/js/2.383c2a66.chunk.js.LICENSE.txt"
+    "url": "/pablo-wabo/static/js/2.3e191fb4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0faf079453ea3d09a757",
-    "url": "/pablo-wabo/static/js/main.6b9f6531.chunk.js"
+    "revision": "7447ef79b89b43a3ace7",
+    "url": "/pablo-wabo/static/js/main.4248eb21.chunk.js"
   },
   {
     "revision": "ffb071fd3511e5f4f94c",
@@ -42,10 +42,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "66f37ba5c7e4b6648f04883fa637e634",
     "url": "/pablo-wabo/static/media/feature-tile-icon-03.66f37ba5.svg"
-  },
-  {
-    "revision": "fa9ba00b178abc7bd2e02bd986e91fe3",
-    "url": "/pablo-wabo/static/media/feature-tile-icon-05.fa9ba00b.svg"
   },
   {
     "revision": "2bcfbbb087b86304afe851b9be042ccd",
