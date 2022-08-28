@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8d66566362e34014411326dfc956065c",
+    "revision": "5fe44fd9a0c961115911206c8f6bcffc",
     "url": "/index.html"
   },
   {
-    "revision": "fcfcf64f9bbfd211d3a3",
+    "revision": "e374818f8f1fbe61b949",
     "url": "/static/css/main.d4d38b96.chunk.css"
   },
   {
@@ -16,12 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.36163172.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fcfcf64f9bbfd211d3a3",
-    "url": "/static/js/main.7d4f384e.chunk.js"
+    "revision": "e374818f8f1fbe61b949",
+    "url": "/static/js/main.ff4a1b20.chunk.js"
   },
   {
     "revision": "51854b5ac62bf00019a5",
     "url": "/static/js/runtime-main.9c55276b.js"
+  },
+  {
+    "revision": "7d25522339362878aeb0f6b07bdb116e",
+    "url": "/static/media/PabloHeroAirDrop.7d255223.png"
   },
   {
     "revision": "dde9be13790da0112516c70722a041e1",
@@ -58,9 +62,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21e0f7879288d8d9b83dfbb68bfbe2b5",
     "url": "/static/media/logo.21e0f787.png"
-  },
-  {
-    "revision": "5c3c6a189fdfbaa71474567bd91f9f98",
-    "url": "/static/media/video-placeholder.5c3c6a18.jpg"
   }
 ]);
