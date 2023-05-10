@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3752306665f5f77b033367426d8bf067",
+    "revision": "e5baf30a4437999ffe29d7c4117eb7e1",
     "url": "/index.html"
   },
   {
-    "revision": "0aef89b2123c402ba9e7",
+    "revision": "d525088b3a64690e8d25",
     "url": "/static/css/main.d4d38b96.chunk.css"
   },
   {
-    "revision": "eb715d74961c5fda6e47",
-    "url": "/static/js/2.36163172.chunk.js"
+    "revision": "dc50b44863fab9defdd7",
+    "url": "/static/js/2.da05e4df.chunk.js"
   },
   {
     "revision": "3a3eee750260ab555627e944270db51c",
-    "url": "/static/js/2.36163172.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.da05e4df.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0aef89b2123c402ba9e7",
-    "url": "/static/js/main.39f03db7.chunk.js"
+    "revision": "d525088b3a64690e8d25",
+    "url": "/static/js/main.b14d32bd.chunk.js"
   },
   {
     "revision": "51854b5ac62bf00019a5",
     "url": "/static/js/runtime-main.9c55276b.js"
   },
   {
-    "revision": "7d25522339362878aeb0f6b07bdb116e",
-    "url": "/static/media/PabloHeroAirDrop.7d255223.png"
+    "revision": "23949d997bd5b1d542c33b1ff419b59f",
+    "url": "/static/media/MetaMask.23949d99.png"
+  },
+  {
+    "revision": "872df13a599c92a36f94fd08033e3375",
+    "url": "/static/media/PabloHeroTradingBegins.872df13a.png"
   },
   {
     "revision": "dde9be13790da0112516c70722a041e1",
