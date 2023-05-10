@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.d4d38b96.chunk.css",
-    "main.js": "/static/js/main.b14d32bd.chunk.js",
-    "main.js.map": "/static/js/main.b14d32bd.chunk.js.map",
+    "main.js": "/static/js/main.4ff9c22f.chunk.js",
+    "main.js.map": "/static/js/main.4ff9c22f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9c55276b.js",
     "runtime-main.js.map": "/static/js/runtime-main.9c55276b.js.map",
-    "static/js/2.da05e4df.chunk.js": "/static/js/2.da05e4df.chunk.js",
-    "static/js/2.da05e4df.chunk.js.map": "/static/js/2.da05e4df.chunk.js.map",
+    "static/js/2.a1b71107.chunk.js": "/static/js/2.a1b71107.chunk.js",
+    "static/js/2.a1b71107.chunk.js.map": "/static/js/2.a1b71107.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.02b0374a903aeb83badee972d55f6e8f.js": "/precache-manifest.02b0374a903aeb83badee972d55f6e8f.js",
+    "precache-manifest.2b3e7dd91c2cc4a68288377ad5f902db.js": "/precache-manifest.2b3e7dd91c2cc4a68288377ad5f902db.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.d4d38b96.chunk.css.map": "/static/css/main.d4d38b96.chunk.css.map",
-    "static/js/2.da05e4df.chunk.js.LICENSE.txt": "/static/js/2.da05e4df.chunk.js.LICENSE.txt",
+    "static/js/2.a1b71107.chunk.js.LICENSE.txt": "/static/js/2.a1b71107.chunk.js.LICENSE.txt",
     "static/media/MetaMask.png": "/static/media/MetaMask.23949d99.png",
     "static/media/PabloHeroTradingBegins.png": "/static/media/PabloHeroTradingBegins.872df13a.png",
     "static/media/avalanche.svg": "/static/media/avalanche.dde9be13.svg",
@@ -20,12 +20,15 @@
     "static/media/feature-tile-icon-02.svg": "/static/media/feature-tile-icon-02.bd39f304.svg",
     "static/media/feature-tile-icon-03.svg": "/static/media/feature-tile-icon-03.66f37ba5.svg",
     "static/media/features-split-image-01.png": "/static/media/features-split-image-01.2bcfbbb0.png",
-    "static/media/logo.png": "/static/media/logo.21e0f787.png"
+    "static/media/logo.png": "/static/media/logo.21e0f787.png",
+    "static/media/pangolin.png": "/static/media/pangolin.c12444ea.png",
+    "static/media/traderjoexyz.png": "/static/media/traderjoexyz.baf0eb97.png",
+    "static/media/yetiswap.png": "/static/media/yetiswap.461e78c1.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9c55276b.js",
-    "static/js/2.da05e4df.chunk.js",
+    "static/js/2.a1b71107.chunk.js",
     "static/css/main.d4d38b96.chunk.css",
-    "static/js/main.b14d32bd.chunk.js"
+    "static/js/main.4ff9c22f.chunk.js"
   ]
 }
