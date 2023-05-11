@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.d4d38b96.chunk.css",
-    "main.js": "/static/js/main.4ff9c22f.chunk.js",
-    "main.js.map": "/static/js/main.4ff9c22f.chunk.js.map",
+    "main.js": "/static/js/main.8e530bb5.chunk.js",
+    "main.js.map": "/static/js/main.8e530bb5.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9c55276b.js",
     "runtime-main.js.map": "/static/js/runtime-main.9c55276b.js.map",
-    "static/js/2.a1b71107.chunk.js": "/static/js/2.a1b71107.chunk.js",
-    "static/js/2.a1b71107.chunk.js.map": "/static/js/2.a1b71107.chunk.js.map",
+    "static/js/2.36163172.chunk.js": "/static/js/2.36163172.chunk.js",
+    "static/js/2.36163172.chunk.js.map": "/static/js/2.36163172.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2b3e7dd91c2cc4a68288377ad5f902db.js": "/precache-manifest.2b3e7dd91c2cc4a68288377ad5f902db.js",
+    "precache-manifest.0f55c33c8a8d4f81b4759e34a04a781b.js": "/precache-manifest.0f55c33c8a8d4f81b4759e34a04a781b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.d4d38b96.chunk.css.map": "/static/css/main.d4d38b96.chunk.css.map",
-    "static/js/2.a1b71107.chunk.js.LICENSE.txt": "/static/js/2.a1b71107.chunk.js.LICENSE.txt",
+    "static/js/2.36163172.chunk.js.LICENSE.txt": "/static/js/2.36163172.chunk.js.LICENSE.txt",
     "static/media/MetaMask.png": "/static/media/MetaMask.23949d99.png",
     "static/media/PabloHeroTradingBegins.png": "/static/media/PabloHeroTradingBegins.872df13a.png",
     "static/media/avalanche.svg": "/static/media/avalanche.dde9be13.svg",
@@ -27,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9c55276b.js",
-    "static/js/2.a1b71107.chunk.js",
+    "static/js/2.36163172.chunk.js",
     "static/css/main.d4d38b96.chunk.css",
-    "static/js/main.4ff9c22f.chunk.js"
+    "static/js/main.8e530bb5.chunk.js"
   ]
 }
