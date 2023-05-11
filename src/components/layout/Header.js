@@ -29,8 +29,15 @@ const Header = ({
   hideSignin,
   bottomOuterDivider,
   bottomDivider,
+  metamask,
   ...props
 }) => {
+
+  console.log("metamask", metamask);
+
+  const {status, connect, account, ethereum} = metamask;
+
+console.log("ethereum", ethereum);
 
   const [isActive, setIsactive] = useState(false);
 
@@ -76,6 +83,11 @@ const Header = ({
     className
   );
 
+
+
+console.log("accounts", account);
+
+
   return (
     <header
       {...props}
@@ -109,6 +121,15 @@ const Header = ({
                     isActive && 'is-active'
                   )}>
                 <div className="header-nav-inner">
+                  {account ? <ul className={
+                    classNames(
+                      'list-reset text-xs',
+                      navPosition && `header-nav-${navPosition}`
+                    )}>
+                    <li>
+                      <Link to="#0" onClick={closeMenu}>{account}</Link>
+                    </li>
+                  </ul> : <p></p>}
                   <ul className={
                     classNames(
                       'list-reset text-xs',
@@ -123,7 +144,7 @@ const Header = ({
                       className="list-reset header-nav-right"
                     >
                       <li>
-                        <Link to="#0" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Air Drop</Link>
+                        <Link to="#0" className="button button-primary button-wide-mobile button-sm" onClick={status === 'notConnected' || status === "unavailable" ? connect : ()=>{console.log("some other function");}}>{status === 'notConnected' ? "Connect" : "Connected"}</Link>
                       </li>
                     </ul>}
                 </div>
